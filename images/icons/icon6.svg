@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="80" height="80" viewBox="0 0 80 80">
+    <defs>
+        <style>
+            .cls-2{fill:#ea4c89}
+        </style>
+    </defs>
+    <g id="Group_15117" transform="translate(-1490 -4043)">
+        <circle id="Ellipse_7" cx="40" cy="40" r="40" fill="#fdedf3" transform="translate(1490 4043)"/>
+        <g id="bar-chart-fill" transform="translate(1511.75 4064.75)">
+            <path id="Path_12670" d="M4.5 22.5H9a2.25 2.25 0 0 1 2.25 2.25v6.75A2.25 2.25 0 0 1 9 33.75H4.5a2.25 2.25 0 0 1-2.25-2.25v-6.75A2.25 2.25 0 0 1 4.5 22.5z" class="cls-2"/>
+            <path id="Path_12671" d="M15.75 13.5h4.5a2.25 2.25 0 0 1 2.25 2.25V31.5a2.25 2.25 0 0 1-2.25 2.25h-4.5a2.25 2.25 0 0 1-2.25-2.25V15.75a2.25 2.25 0 0 1 2.25-2.25z" class="cls-2"/>
+            <path id="Path_12672" d="M27 2.25h4.5a2.25 2.25 0 0 1 2.25 2.25v27a2.25 2.25 0 0 1-2.25 2.25H27a2.25 2.25 0 0 1-2.25-2.25v-27A2.25 2.25 0 0 1 27 2.25z" class="cls-2"/>
+        </g>
+    </g>
+</svg>

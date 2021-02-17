@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="80" height="80" viewBox="0 0 80 80">
+    <defs>
+        <style>
+            .cls-2{fill:#db8f42}
+        </style>
+    </defs>
+    <g id="Group_15115" transform="translate(-129 -1844)">
+        <g id="Group_15106">
+            <circle id="Ellipse_3" cx="40" cy="40" r="40" fill="#fff8ee" transform="translate(129 1844)"/>
+            <g id="user" transform="translate(148.7 1862.25)">
+                <path id="Path_7" d="M19.61 4.96a6.775 6.775 0 1 1-6.775 6.775A6.775 6.775 0 0 1 19.61 4.96m0-2.71a9.485 9.485 0 1 0 9.49 9.485 9.485 9.485 0 0 0-9.49-9.485z" class="cls-2" transform="translate(.69)"/>
+                <path id="Path_8" d="M33.85 36.51h-2.71v-6.775a6.775 6.775 0 0 0-6.775-6.775h-8.13a6.775 6.775 0 0 0-6.775 6.775v6.775H6.75v-6.775a9.485 9.485 0 0 1 9.485-9.485h8.13a9.485 9.485 0 0 1 9.485 9.485z" class="cls-2" transform="translate(0 3.68)"/>
+            </g>
+        </g>
+    </g>
+</svg>
